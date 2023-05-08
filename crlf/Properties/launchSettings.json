@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "crlf": {
+      "commandName": "Project",
+      "commandLineArgs": "-f .\r\n-e .cs .txt\r\n"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crlf", "crlf\crlf.csproj", "{D53DF5DD-2F34-4BFC-AC88-95CE87D0762B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53DF5DD-2F34-4BFC-AC88-95CE87D0762B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53DF5DD-2F34-4BFC-AC88-95CE87D0762B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53DF5DD-2F34-4BFC-AC88-95CE87D0762B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53DF5DD-2F34-4BFC-AC88-95CE87D0762B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133F2ED4-57E5-41E2-8CEA-3A7425A3726E}
+	EndGlobalSection
+EndGlobal
